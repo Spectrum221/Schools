@@ -27,7 +27,7 @@ export default function Example() {
               <span className="sr-only">9A ❤️</span>
               <img
                 className="h-10 w-auto"
-                src="https://almaty.fizmat.kz/wp-content/uploads/sites/2/2017/03/NIS-Photo.jpg"  
+                src="/nis.icon.jpg.png"  
                 alt="NIS"
               />
             </div>
@@ -56,7 +56,7 @@ export default function Example() {
                 <span className="sr-only">9A ❤️</span>
                 <img
   className="h-10 w-auto"
-  src="https://almaty.fizmat.kz/wp-content/uploads/sites/2/2017/03/NIS-Photo.jpg" 
+  src="/nis.icon.jpg.png" 
   alt="NIS"
 />
               <button
